@@ -1,0 +1,5 @@
+- nome_aplicativo
+- titulo_janela
+- timestamp_inico
+- timestamp_fim
+- tempo_total
